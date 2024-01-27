@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrazyChess</string>
+    <string name="play_button">Play</string>
+    <string name="mode">Mode</string>
+    <string name="time">Time</string>
+    <string name="undo_button">Undo</string>
+    <string name="redo_button">Redo</string>
+    <string name="options_button">Options</string>
+    <string name="standard">Standard</string>
+    <string name="swizz">Swizz</string>
+</resources>
